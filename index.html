@@ -1,32 +1,73 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Welcome to My GitHub Page!</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            max-width: 800px;
-            margin: 50px auto;
-            text-align: center;
-        }
-        h1 {
-            color: #333;
-        }
-        p {
-            color: #666;
-        }
-    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vaidehi - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Hello, I'm Vaidehi!</h1>
-        <p>Welcome to my personal GitHub Page. Check out my projects and work!</p>
-        <a href="https://github.com/Vaidehi0910" target="_blank">Visit My GitHub</a>
-    </div>
+    <nav class="navbar">
+        <div class="container">
+            <h1>Vaidehi</h1>
+            <ul class="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section id="about" class="section">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Hello! I'm Vaidehi, an aspiring ML Engineer with a passion for developing machine learning models and working on full-stack projects. I'm also actively researching SPO2 estimation using rPPG techniques.</p>
+        </div>
+    </section>
+
+    <section id="skills" class="section">
+        <div class="container">
+            <h2>Skills</h2>
+            <div class="skills-grid">
+                <div class="skill">Python</div>
+                <div class="skill">C++</div>
+                <div class="skill">Machine Learning</div>
+                <div class="skill">rPPG</div>
+                <div class="skill">Full-Stack Development</div>
+                <div class="skill">GitHub/Version Control</div>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects" class="section">
+        <div class="container">
+            <h2>Projects</h2>
+            <div class="project">
+                <h3>Online Support Ticketing System</h3>
+                <p>Developed a web application with admin, student, and support staff panels to manage support tickets efficiently.</p>
+            </div>
+            <div class="project">
+                <h3>SPO2 Estimation Using rPPG</h3>
+                <p>Developed ML models to estimate SPO2 levels using rPPG data (ror_rb, ror_gb, ror_rg).</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="section">
+        <div class="container">
+            <h2>Contact</h2>
+            <p>Feel free to reach out to me on:</p>
+            <div class="social-links">
+                <a href="https://github.com/Vaidehi0910" target="_blank">GitHub</a>
+                <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">LinkedIn</a>
+                <a href="mailto:your-email@example.com">Email Me</a>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <p>© 2025 Vaidehi. All rights reserved.</p>
+    </footer>
 </body>
 </html>

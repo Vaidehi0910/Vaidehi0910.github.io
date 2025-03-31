@@ -20,20 +20,15 @@ Education
 
 Projects
 =========
-* Adversarial Attacks on Medical Image Segmentation Models, (Aug. 2021 - present)
-  * Devised a novel attack architecture that selects the best surrogate loss function to perform attacks on medical image segmentation models while adding minimum adversarial perturbations.
-  * The architecture was able to fool the state-of-the-art medical image segmentation models with an attack success rate of more than 99%.
+* SpO2 Estimation from face Videos, (Jun. 2024 - Present)
+  * Created a new dataset for SpO2 estimation containing facial videos and their corresponding SpO2 and pulse rate.
+  * Explored different rPPG principles, Eulerian and Lagrangian techniques, to extract temporal signals.
+  * Designed a deep learning and computer vision framework for remote SpO2 estimation which attained the accuracy of 1.02 MAE on our dataset.
   
-* Defence against Adversarial Attacks on NLP Models, (Jan. 2021 - Jun. 2021)
-  * Devised two novel transformation based defences that can circumvent state-of-the-art attacks.
-  * The proposed defence overcome the drawbacks of the existing spelling correction based defences.
-  
-* Adversarial Attacks on Audio-Visual Speech Recognition Models, (May. 2020 - Nov. 2020)
-  * Devised a novel attack to breach the state-of-the-art AVSR models by simultaneously deceiving the detection algorithm, with an attack success rate of 100%.
-
-* Adversarial Attacks on Visual Speech Recognition Models, (Dec. 2019 - Apr. 2020)
-  * Devised a novel algorithm to perform an attack on the state-of-the-art VSR models with a 100% attack success rate.
-  * The algorithm was able to circumvent popular defences with an attack success rate of more than 99%.
+* Heart Rate Estimation using Camera, (Jan. 2024 - Jun. 2024)
+  * Developed an application that estimates heart rate from the face using OpenCV.
+  * Detects face mask with 97% accuracy with CNN model.
+  * Used different algorithms to detect heart rate with MAE of 6 on a public dataset containing 150+ videos.
 
 Publications
 ======
@@ -43,11 +38,11 @@ Publications
 
 Work experience
 ===============
-* Qualcomm. (Bangalore, Karnataka, Feb. 2025 - Present)
+* Qualcomm India. (Bangalore, Karnataka, Feb. 2025 - Present)
   * Student Intern 
   * Working on building an autonomous system.
 
-* Egrowth Technologies (1digitalstack.ai). (Gurugram, Haryana, Jan. 2023 - Jun. 2023)
+* Egrowth Technologies (1digitalstack). (Gurugram, Haryana, Jan. 2023 - Jun. 2023)
   * Student Intern
   * Scraped data from internet markets, analyzed it to produce suggestions for content and net promoter scoring (NPS).
   * Developed a BERT-based NLP model to classify and analyze 200,000 reviews, enhancing semantic search and information extraction capabilities for decision-making.

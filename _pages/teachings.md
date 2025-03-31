@@ -10,7 +10,7 @@ author_profile: true
 * **Guest Faculty and Course Co-ordinator**:  Soft Computing, [Shri G S Institute of Technology & Science, Indore](https://www.sgsits.ac.in/index.php/departments/information-technology), [Mar. 2022 - Jun. 2022]
 * **Guest Faculty and Course Co-ordinator**:  Artificial Intelligence and Machine Learning, [Shri G S Institute of Technology & Science, Indore](https://www.sgsits.ac.in/index.php/departments/information-technology), [Oct. 2021 - Feb. 2022] -->
 
-# Teaching Assistant (IIT Indore)
+<!-- # Teaching Assistant (IIT Indore) -->
 
 * Machine Learning (CS 403/603) - Autumn '24  
 * Computer Vision (CS 419/619) - Spring '24  

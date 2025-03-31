@@ -9,7 +9,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-I am a MS Research scholar with the department of Computer Science and Engineering at Indian Institute of Technology (IIT) Indore. Currently pursuing research under supervision of [Dr. Puneet Gupta](https://www.iiti.ac.in/people/~puneet/) on Physiological Parameter Estimation using Face Videos. When I’m not into tech, I like to immerse myself in the magical world of books. To know more about me checkout my [GitHub](https://github.com/Vaidehi0910) profile. If you think, we have something in common, do ping me!
+I am a MS Research scholar with the department of Computer Science and Engineering at Indian Institute of Technology (IIT) Indore. Currently pursuing MS-Research under supervision of [Dr. Puneet Gupta](https://www.iiti.ac.in/people/~puneet/) on Physiological Parameter Estimation using Face Videos. When I’m not into tech, I like to immerse myself in the magical world of books. To know more about me checkout my [GitHub](https://github.com/Vaidehi0910) profile. If you think, we have something in common, do ping me!
 
 Education
 =========

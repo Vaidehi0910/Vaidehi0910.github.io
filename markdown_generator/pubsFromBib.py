@@ -32,6 +32,7 @@ publist = {
         "venue-pretext": "",
         "collection" : {"name":"submitted",
                         "permalink":"/publication/"}
+    }
     "proceeding": {
         "file" : "proceedings.bib",
         "venuekey": "booktitle",

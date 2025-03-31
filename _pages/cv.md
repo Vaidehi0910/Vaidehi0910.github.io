@@ -35,6 +35,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  consol.log(site)
 
 Work experience
 ===============

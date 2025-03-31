@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 =========
-* Ph.D. in Computer Science and Engineering, Indian Institute of Technology Indore, (Aug. 2021 - present)
-* M.S.(Research) in Computer Science and Engineering, Indian Institute of Technology Indore, (Aug. 2019 - Jul. 2021)
-* B.Tech in Computer Science and Engineering, Dr. A.P.J. Abdul Kalam Technical University, Lucknow, (Aug. 2013 - Jul. 2017)
+* M.S.(Research) in Computer Science and Engineering, Indian Institute of Technology Indore, (Aug. 2023 - Present)
+* B.Tech in Computer Science and Engineering, JC Bose University of Science and Technology, YMCA, (Aug. 2019 - May. 2023)
+* B.Sc. in Programming and Data Science, Indian Institute of Technology Madras, (Jan. 2020 - Dec. 2023)
 
 
 Projects
@@ -43,24 +43,13 @@ Publications
 
 Work experience
 ===============
-
-* Kwench Global Technologies Pvt. Ltd. (Noida, Uttar Pradesh, Oct. 2017 - Apr. 2018)
-  * Software Engineer
-  * Developed Workplace Bots in a team that is Product Partner of Workplace, an enterprise connectivity platform by Facebook.
-  * Worked on the Reward and Recognition Platform that is trusted by over 500 companies across 63 countries.
-  * Developed rules for the Reward Platform, which helps provide the clients with numerous configurations of the Reward System of their choice with no change in the code.
-* Novoinvent Softwares Pvt. Ltd. (Noida, Uttar Pradesh, Jul. 2017 - Sep. 2017)
-  * Software Engineer 
-  * Worked on a US government insurance project for the state of Maryland, “Maryland Health Connection” which is the state’s official health insurance marketplace for individuals and families to compare and enrol in health insurance.
-* Software Development Centre - Software Incubator. (Ghaziabad, Uttar Pradesh, Aug. 2014 - May 2017)
-  * Student Co-ordinator/ Software Engineer 
-  * Developed a Biometric Attendance System for the faculty and staff of Ajay Kumar Garg Engineering College (AKGEC), Ghaziabad.
-  * Developed and maintained more than 10 portals, websites and platforms related to AKGEC.
-  * Web Team Member, Event Organiser: Tech Trishna’15, the annual national technical festival of AKGEC, which saw a footfall of 1500+ participants.
-  * Developed an online registration and slot booking portal in the Blood Donation Camp, 2016 & 2017.
-* My Own Space Research Consultancy. (Ghaziabad, Uttar Pradesh, Jun. 2016 - Jul. 2016)
-  * Student Intern
-  * Designed and developed a website that provides an easy solution to buyers for accessing reviews for any property and helps them make the correct decision.
-* Sarvodya Ventures. (Ghaziabad, Uttar Pradesh, Jun. 2015)
+* Qualcomm. (Bangalore, Karnataka, Feb. 2025 - Present)
   * Student Intern 
-  * Worked on a live portal that connects transporters, truck drivers, customers and other related entities.
+  * Working on building an autonomous system.
+
+* Egrowth Technologies (1digitalstack.ai). (Gurugram, Haryana, Jan. 2023 - Jun. 2023)
+  * Student Intern
+  * Scraped data from internet markets, analyzed it to produce suggestions for content and net promoter scoring (NPS).
+  * Developed a BERT-based NLP model to classify and analyze 200,000 reviews, enhancing semantic search and information extraction capabilities for decision-making.
+  * Engineered dashboards using PowerBI to effectively communicate insights from datasets, increasing data-driven decision efficiency by 25%.
+
